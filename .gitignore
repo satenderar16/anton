@@ -1,0 +1,38 @@
+# === Android/Java/Kotlin ===
+.gradle/
+build/
+captures/
+*.class
+*.log
+
+# === Android Studio / IntelliJ ===
+.idea/
+*.iml
+local.properties
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Misc tools ===
+*.swp
+*.pyc
+.history
+.svn/
+.atom/
+.build/
+.buildlog/
+.vscode/  # Uncomment if you don't want to track VS Code settings
+
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+**/ios/Flutter/.last_build_id
+**/doc/api/
+
+# === Android app-specific build outputs ===
+/android/app/debug
+/android/app/profile
+/android/app/release
