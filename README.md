@@ -1,16 +1,30 @@
-# testvpn
+# Anton
 
-A new Flutter project.
+Anton is a Flutter-based Android application that utilizes the Android VPN Service API to restrict internet access for user-selected applications. This lightweight and privacy-respecting tool allows users to take control over network access at the app level — all through a clean and intuitive Flutter-powered UI.
+
+---
+
+## Features
+
+- Select apps to block from internet access  
+- System-wide VPN-based solution (no root required)  
+- Lightweight and efficient — designed for performance  
+- Built with Flutter for a responsive and modern user interface  
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This repository contains the source code for Anton. To run the app locally or contribute to its development, follow the instructions below.
 
-A few resources to get you started if this is your first Flutter project:
+### Compatibility
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- An Android device or emulator running API level 21 (Android 5.0) or higher  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation  
+
+Clone the repository:
+
+```bash
+git clone https://github.com/satenderar16/anton.git
+cd anton
